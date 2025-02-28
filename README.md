@@ -14,8 +14,8 @@
 | 💪 Confident | 😄 Solid | 👨‍🎓 Learning | 🧠 To learn |
 |-|-|-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="100">
-| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="100"> || <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="Haskell" width="100"> 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100"> |<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="100">|||
+| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="100"> ||
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100"> |<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="100">|||
 
 
 ---
