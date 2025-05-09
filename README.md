@@ -5,18 +5,40 @@
   <p><h1>Kamix-08</h1></p>
 </div>
 
-<div align="center"><i>Always looking for opportunities to learn</i></div>
+<div align="center"><i>Making machines (pretend to) think 🧠</i></div>
 
 ---
 
-### 🛠️ Languages && technologies:
+### 🛠 Languages:
 
-| 💪 Confident | 😄 Solid | 👨‍🎓 Learning | 🧠 To learn |
-|-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="100">
-| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100"> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="100"> ||
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100"> |<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="100">|||
-
+<table>
+  <tr>
+    <th>💪 Fluent</th>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100">
+    </td>
+  </tr>
+  <tr>
+    <th>😄 Solid</th>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="100">
+    </td>
+  </tr>
+  <tr>
+    <th>🤔 Basic</th>
+    <td>
+      <div>- webdev technologies, including <i>Tailwind CSS</i></div>
+      <div>- database technologies, including <i>MySQL</i></div>
+      <div>- gamedev technologies, including <i>Unity C#</i></div>
+    </td>
+  </tr>
+  <tr>
+    <th>🧠 Learning</th>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="100"></td>
+  </tr>
+</table>
 
 ---
 
